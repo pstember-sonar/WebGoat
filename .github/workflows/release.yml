@@ -145,4 +145,3 @@ jobs:
             github_token: "${{ secrets.GITHUB_TOKEN }}"
             title: ${{ github.event.commits[0].message }}
             target_branch: main
-
