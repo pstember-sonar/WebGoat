@@ -43,4 +43,4 @@ jobs:
                   SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
                   SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
                   SONAR_PROJECT_KEY: ${{ secrets.SONAR_PROJECT_KEY }}
-                run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dmaven.test.skip=true -Dsonar.projectKey="$SONAR_PROJECT_KEY"
+                run: mvn -B test -Pcoverage verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dmaven.test.skip=true -Dsonar.projectKey="$SONAR_PROJECT_KEY"
