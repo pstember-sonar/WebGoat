@@ -1,4 +1,9 @@
 # WebGoat 8: A deliberately insecure Web Application
+[![Quality Gate Status](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=alert_status&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
+[![Lines of Code](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=ncloc&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
+[![Maintainability Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=sqale_rating&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
+[![Security Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=security_rating&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
+[![Reliability Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=reliability_rating&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
 
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-17-green.svg)](https://jdk.java.net/)
